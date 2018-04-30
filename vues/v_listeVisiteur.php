@@ -12,7 +12,7 @@
 
             <p>
 
-                <label for="lstVisiteur" accesskey="n">Mois : </label>
+                <label for="lstVisiteur" accesskey="n">Visiteur : </label>
                 <select id="listVisiteur" name="lstVisiteur">
                     <?php
                     foreach ($lesVisiteurs as $unVisiteur) {
